@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a964657.chunk.css",
+    "main.js": "/static/js/main.1a6b49e7.chunk.js",
+    "main.js.map": "/static/js/main.1a6b49e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e1baf1cc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e1baf1cc.js.map",
+    "static/js/2.5c52ddb0.chunk.js": "/static/js/2.5c52ddb0.chunk.js",
+    "static/js/2.5c52ddb0.chunk.js.map": "/static/js/2.5c52ddb0.chunk.js.map",
+    "static/js/3.864e1073.chunk.js": "/static/js/3.864e1073.chunk.js",
+    "static/js/3.864e1073.chunk.js.map": "/static/js/3.864e1073.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4a964657.chunk.css.map": "/static/css/main.4a964657.chunk.css.map",
+    "static/js/2.5c52ddb0.chunk.js.LICENSE.txt": "/static/js/2.5c52ddb0.chunk.js.LICENSE.txt",
+    "static/media/amazon-image.ed9eaa67.png": "/static/media/amazon-image.ed9eaa67.png",
+    "static/media/amazon-image2.c87f3dd4.png": "/static/media/amazon-image2.c87f3dd4.png",
+    "static/media/netflix-image.c1c707a4.png": "/static/media/netflix-image.c1c707a4.png",
+    "static/media/netflix-image2.4d5724e9.png": "/static/media/netflix-image2.4d5724e9.png",
+    "static/media/quote-image.13d234b6.png": "/static/media/quote-image.13d234b6.png",
+    "static/media/quote-image2.f9419e41.png": "/static/media/quote-image2.f9419e41.png",
+    "static/media/recipe-image.55e134c3.png": "/static/media/recipe-image.55e134c3.png",
+    "static/media/recipe-image2.7822e0bb.png": "/static/media/recipe-image2.7822e0bb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1baf1cc.js",
+    "static/js/2.5c52ddb0.chunk.js",
+    "static/css/main.4a964657.chunk.css",
+    "static/js/main.1a6b49e7.chunk.js"
+  ]
+}

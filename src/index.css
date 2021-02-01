@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #222831;
+  font-family: Staatliches, sans-serif;
+}
+body {
+  overflow-x: hidden;
+  height: 100vh;
+}

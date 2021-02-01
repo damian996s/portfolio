@@ -1,0 +1,37 @@
+ul {
+  list-style-type: none;
+  background-color: white;
+  padding: 0;
+  margin: 0;
+}
+li {
+  float: left;
+  padding: 15px 0;
+}
+p {
+  font-size: 1.8vw;
+  text-decoration: none;
+  color: gray;
+  position: relative;
+  display: block;
+  overflow: hidden;
+}
+span {
+  color: lightblue;
+  display: block;
+  transition: 1.5s;
+}
+p:hover span {
+  transform: translateY(-100%);
+}
+p:before {
+  position: absolute;
+  content: attr(data-link-alt);
+  top: 100%;
+  opacity: 0;
+  transition: 1.5s;
+}
+p:hover:before {
+  top: 0;
+  opacity: 1;
+}
